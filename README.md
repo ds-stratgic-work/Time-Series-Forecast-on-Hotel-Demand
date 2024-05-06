@@ -1,1 +1,4 @@
 # Time Series On Hotel Demand
+
+Introduction
+The most important part of tourism is to manage hotels and resorts. The number of tourist flow in a Resort or hotel is the indicator of the hotel revenue. The accurate guest prediction to occupy all Rooms of Hotel(ROH), is the key to revenue management that helps the organizations and companies to allocate limited tourism resources reasonabily to maintain market competetiveness. The curve is non-linier with complex, huge, fluctuations in data and it's characteristics. During season the flow of tourists increases the demand in tourism management for the holels and resorts. The decision makers in the tourism magament falls into a dilemma, either overestimation or underestimation of the tourist flow. Forecasting accurately the results increase the demand.
