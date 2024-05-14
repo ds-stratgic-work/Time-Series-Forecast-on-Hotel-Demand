@@ -28,7 +28,8 @@ The purpose of this project is to generate accurate guest prediction to occupy a
 ### Needs of this project
 - frontend developers
 
-  Github: https://github.com/ds-stratgic-work/Time-Series-Forecast-on-Hotel-Demand.git 
+ Ref Articles:
+ https://medium.com/@chenycy/predict-hotel-demands-leveraging-time-series-forecasting-techniques-62e25606f273 
  
 
 
